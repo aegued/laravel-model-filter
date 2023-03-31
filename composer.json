@@ -1,0 +1,18 @@
+{
+    "name": "aegued/laravel-model-filter",
+    "description": "Create generic queries through a model.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aegued\\LaravelModelFilter\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alfredo",
+            "email": "aegued@labelgrup.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
